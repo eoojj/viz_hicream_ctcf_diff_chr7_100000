@@ -1,0 +1,27 @@
+group	label	showSelected1
+1	Cluster 1: 351/23772 pixels shown, logFC -4.8 to 5.0, log10(p) 0.0 to 4.0	1
+1	Cluster 6: 405/5502 pixels shown, logFC -5.3 to 4.7, log10(p) 0.0 to 4.5	6
+1	Cluster 10: 459/473 pixels shown, logFC -3.4 to 3.9, log10(p) 0.0 to 1.7	10
+1	Cluster 81: 73/223 pixels shown, logFC -3.8 to 3.3, log10(p) 0.0 to 1.7	81
+1	Cluster 84: 7/1251 pixels shown, logFC -4.2 to 3.9, log10(p) 0.0 to 2.0	84
+1	Cluster 126: 1181/2182 pixels shown, logFC -4.6 to 4.2, log10(p) 0.0 to 2.5	126
+1	Cluster 141: 12/115 pixels shown, logFC -3.1 to 3.6, log10(p) 0.0 to 1.5	141
+1	Cluster 144: 1/423 pixels shown, logFC -4.6 to 4.2, log10(p) 0.0 to 2.5	144
+1	Cluster 149: 218/929 pixels shown, logFC -4.6 to 4.7, log10(p) 0.0 to 3.7	149
+1	Cluster 226: 181/181 pixels shown, logFC -4.0 to 3.3, log10(p) 0.0 to 1.8	226
+1	Cluster 300: 9/78 pixels shown, logFC -2.6 to 3.9, log10(p) 0.0 to 1.7	300
+1	Cluster 356: 106/154 pixels shown, logFC -3.1 to 3.9, log10(p) 0.0 to 1.7	356
+1	Cluster 461: 205/205 pixels shown, logFC -4.4 to 2.8, log10(p) 0.0 to 2.2	461
+1	Cluster 463: 52/62 pixels shown, logFC -3.8 to 2.8, log10(p) 0.0 to 1.5	463
+1	Cluster 506: 151/160 pixels shown, logFC -4.0 to 2.8, log10(p) 0.0 to 1.9	506
+1	Cluster 523: 58/113 pixels shown, logFC -3.4 to 3.7, log10(p) 0.0 to 1.4	523
+1	Cluster 529: 163/376 pixels shown, logFC -3.8 to 2.0, log10(p) 0.0 to 1.5	529
+1	Cluster 619: 14/14 pixels shown, logFC -3.7 to -0.6, log10(p) 0.1 to 1.5	619
+1	Cluster 647: 4/37 pixels shown, logFC -0.6 to 3.3, log10(p) 0.0 to 1.1	647
+1	Cluster 696: 21/21 pixels shown, logFC -4.6 to -1.0, log10(p) 0.3 to 2.5	696
+1	Cluster 697: 36/38 pixels shown, logFC -3.1 to 1.4, log10(p) 0.1 to 0.9	697
+1	Cluster 793: 29/35 pixels shown, logFC -3.8 to 0.2, log10(p) 0.0 to 1.5	793
+1	Cluster 795: 43/43 pixels shown, logFC -3.5 to 0.2, log10(p) 0.0 to 1.2	795
+1	Cluster 861: 37/37 pixels shown, logFC -4.0 to 1.5, log10(p) 0.0 to 1.7	861
+1	Cluster 867: 25/25 pixels shown, logFC -3.7 to 0.2, log10(p) 0.0 to 1.5	867
+1	Cluster 899: 21/21 pixels shown, logFC -4.0 to 1.5, log10(p) 0.1 to 1.7	899
